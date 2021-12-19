@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&display=swap"
+      rel="stylesheet"
+    />
+</head>
+<style>
+*{
+   padding: 0;
+   margin: 0;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #04040a;
+}
+
+.section1{
+    width: 40%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section1 h1{
+    font-weight: 400;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.section1 h4{
+    color: #fff;
+    text-align: center;
+}
+
+.section2{
+    width: 40%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section2 div{
+    margin: .5rem auto;
+}
+
+.name h1{
+    font-size: 2rem;
+    color: #fff;
+    font-weight: 400;
+}
+
+.subtitle h2{
+    font-size: 1.8rem;
+    color: #fff;
+    font-weight: 400;
+}
+
+.descrip p{
+    text-align: justify;
+    font-size:1.1rem;
+    color: #fff;
+}
+
+.extras{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.extras h2{
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.extras a{
+    color: #fff;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+</style>
+<body>
+    <main class="main">
+        <section class="section1">
+           <div>
+               <img src={%BOOKIMAGE%} alt="">
+           </div>
+           <div>
+               <h4>Price</h4>
+               <h1>{%BOOKPRICE%}</h1>
+           </div>
+        </section>
+        <section class="section2">
+            <div class="name">
+                <h1>{%BOOKNAME%}</h1>
+            </div>
+            <div class="subtitle">
+                <h2>{%BOOKSUBTITILE%}</h2>
+            </div>
+            <div class="descrip">
+                <p>{%BOOKDESCRIP%}</p>
+            </div>
+            <div class="extras">
+                <div>
+                    <h2>{%BOOKNO%}</h2>
+                </div>
+                <div>
+                    <a href={%BOOKURL%}>
+                        link to ths book
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

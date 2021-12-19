@@ -1,0 +1,111 @@
+[
+  {
+    "title": "Node.js for PHP Developers",
+    "subtitle": "Porting PHP to Node.js",
+    "isbn13": "9781449333607",
+    "price": "$20.36",
+    "image": "https://itbook.store/img/books/9781449333607.png",
+    "url": "https://itbook.store/books/9781449333607",
+    "id": 0,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  },
+  {
+    "title": "Using Node.js for UI Testing",
+    "subtitle": "Learn how to easily automate testing of your web apps using Node.js, Zombie.js, and Mocha",
+    "isbn13": "9781782160526",
+    "price": "$14.99",
+    "image": "https://itbook.store/img/books/9781782160526.png",
+    "url": "https://itbook.store/books/9781782160526",
+    "id": 1,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+  },
+  {
+    "title": "Node.js Design Patterns",
+    "subtitle": "Get the best out of Node.js by mastering a series of patterns and techniques to create modular, scalable, and efficient applications",
+    "isbn13": "9781783287314",
+    "price": "$30.46",
+    "image": "https://itbook.store/img/books/9781783287314.png",
+    "url": "https://itbook.store/books/9781783287314",
+    "id": 2,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  },
+  {
+    "title": "Deploying Node.js",
+    "subtitle": "Learn how to build, test, deploy, monitor, and maintain your Node.js applications at scale",
+    "isbn13": "9781783981403",
+    "price": "$44.99",
+    "image": "https://itbook.store/img/books/9781783981403.png",
+    "url": "https://itbook.store/books/9781783981403",
+    "id": 3,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  },
+  {
+    "title": "RESTful Web API Design with Node.js",
+    "subtitle": "Design and implement comprehensive RESTful solutions in Node.js",
+    "isbn13": "9781783985869",
+    "price": "$23.99",
+    "image": "https://itbook.store/img/books/9781783985869.png",
+    "url": "https://itbook.store/books/9781783985869",
+    "id": 4,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  },
+  {
+    "title": "Node.js By Example",
+    "subtitle": "Learn to use Node.js by creating a fully functional social network",
+    "isbn13": "9781784395711",
+    "price": "$42.76",
+    "image": "https://itbook.store/img/books/9781784395711.png",
+    "url": "https://itbook.store/books/9781784395711",
+    "id": 5,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  },
+  {
+    "title": "Learning Node.js for Mobile Application Development",
+    "subtitle": "Make use of Node.js to learn the development of a simple yet scalable cross-platform mobile application",
+    "isbn13": "9781785280498",
+    "price": "$35.99",
+    "image": "https://itbook.store/img/books/9781785280498.png",
+    "url": "https://itbook.store/books/9781785280498",
+    "id": 6,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  },
+  {
+    "title": "Learn Node.js by Building 6 Projects",
+    "subtitle": "Build six practical and instructive Node.js projects",
+    "isbn13": "9781788293631",
+    "price": "$26.92",
+    "image": "https://itbook.store/img/books/9781788293631.png",
+    "url": "https://itbook.store/books/9781788293631",
+    "id": 7,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  },
+  {
+    "title": "Advanced Node.js Development",
+    "subtitle": "Master Node.js by building real-world applications",
+    "isbn13": "9781788393935",
+    "price": "$31.99",
+    "image": "https://itbook.store/img/books/9781788393935.png",
+    "url": "https://itbook.store/books/9781788393935",
+    "id": 8,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  },
+  {
+    "title": "RESTful Web API Design with Node.js 10, 3rd Edition",
+    "subtitle": "Learn to create robust RESTful web services with Node.js, MongoDB, and Express.js",
+    "isbn13": "9781788623322",
+    "price": "$29.99",
+    "image": "https://itbook.store/img/books/9781788623322.png",
+    "url": "https://itbook.store/books/9781788623322",
+    "id": 9,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, minima excepturi incidunt veniam aspernatur provident labore nemo, ut reprehenderit iusto aliquid! Nemo, explicabo perferendis dignissimos doloremque suscipit et in voluptate doloribus earum maiores iste ex vitae maxime quibusdam. Asperiores, sapiente!"
+
+  }
+]
